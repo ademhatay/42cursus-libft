@@ -5,8 +5,14 @@ This project is about coding a C library. It will contain a lot of general purpo
 
 ## Usage
 
-`git clone https://github.com/ademhatay/42cursus-libft`
+```
+git clone https://github.com/ademhatay/42cursus-libft
+```
 
-`cd 42cursus-libft`
+```
+cd 42cursus-libft
+```
 
-`make`
+``` 
+make
+```
