@@ -16,3 +16,5 @@ cd 42cursus-libft
 ``` 
 make
 ```
+## Status
+finished - 100
